@@ -37,8 +37,3 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 ## Prerequisites
 * [Python](https://www.python.org)
 * [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
-
-
-## Acknowledgements
-* [Pygame Documentations](https://www.pygame.org/docs/)
-* [Udemy: Python Game Development](https://www.udemy.com/python-game-development-creating-a-snake-game-from-scratch/learn/v4/overview)
