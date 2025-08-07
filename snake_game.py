@@ -168,3 +168,4 @@ while True:
     pygame.display.update()
     # Refresh rate
     fps_controller.tick(difficulty)
+
